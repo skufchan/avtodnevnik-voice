@@ -1,0 +1,92 @@
+{
+    "model":  "vosk-model-small-ru-0.22",
+    "license":  "Apache-2.0",
+    "source":  "https://alphacephei.com/vosk/models",
+    "total":  91289240,
+    "files":  [
+                  {
+                      "path":  "am/final.mdl",
+                      "size":  15862383,
+                      "md5":  "f8f35f33ca26e6315d7006a174593346",
+                      "sha256":  "36d67b53dc90d96ea48097f9e17e7c5937689ad76cb8bed25091317bbaf25919"
+                  },
+                  {
+                      "path":  "conf/mfcc.conf",
+                      "size":  131,
+                      "md5":  "84a568eda381f44519975996aa86d8fe",
+                      "sha256":  "1e2228006d01d805ad1c267fee9f79709ca87ac51bd82b0e3f5c69ba543f0fc4"
+                  },
+                  {
+                      "path":  "conf/model.conf",
+                      "size":  289,
+                      "md5":  "37d7392bf7d3b67bd59a7eb5bcfbaf47",
+                      "sha256":  "dd7178da0e99fdbe489816c1e9702c3daa28e02accacc2993e0becb7af33b80c"
+                  },
+                  {
+                      "path":  "graph/disambig_tid.int",
+                      "size":  25,
+                      "md5":  "bb3be49f6b0acf9eac46238616a34837",
+                      "sha256":  "c3af3dbc5eb301c4b282480d785c04b1642a8db83210a12332e9790e50146fd2"
+                  },
+                  {
+                      "path":  "graph/Gr.fst",
+                      "size":  32288259,
+                      "md5":  "cd7ae127a696ec4b1ac133702be98430",
+                      "sha256":  "189b4f67c69eb34b9d8b47b12f184665e5445667ca5264579b61c6b9eb2cef1e"
+                  },
+                  {
+                      "path":  "graph/HCLr.fst",
+                      "size":  32993810,
+                      "md5":  "889b2452891887f0629f1828b23da682",
+                      "sha256":  "0b096f4676f306aa3e60d2244ef1e24c5c699b8794acf3c3946b59bcc9dca831"
+                  },
+                  {
+                      "path":  "graph/phones/word_boundary.int",
+                      "size":  2166,
+                      "md5":  "4472ca1d33a2efde57c8460501aba308",
+                      "sha256":  "23081404fe1cc7338c013a4beec133637147d60472c06ab64ff88ee3d028a7b5"
+                  },
+                  {
+                      "path":  "ivector/final.dubm",
+                      "size":  168048,
+                      "md5":  "1ef0f4a8dbae2bcdecf064573f758f22",
+                      "sha256":  "7dffe22bd992d7274fba925632bded4756d82dfd9b962d3c703110251fdf35b8"
+                  },
+                  {
+                      "path":  "ivector/final.ie",
+                      "size":  9927287,
+                      "md5":  "543d1b8f67dfed41de3def910fb384cc",
+                      "sha256":  "94f2558d00fe199ac01409281352eb16707ec075baaf9cc0d7b53011583cfa0e"
+                  },
+                  {
+                      "path":  "ivector/final.mat",
+                      "size":  44975,
+                      "md5":  "10372e791b3eda1966f35fc615e81408",
+                      "sha256":  "956577d396b636fe359b4321f10df5ed6a76bdfdec366b4a2b7d3242e524f04f"
+                  },
+                  {
+                      "path":  "ivector/global_cmvn.stats",
+                      "size":  1077,
+                      "md5":  "df436bf906c4b0dc3716d2b5142a5c77",
+                      "sha256":  "c600cbf4acfbfac99d587040d48dc31129cd635b112ff15bfa2e9d3b0cece1f8"
+                  },
+                  {
+                      "path":  "ivector/online_cmvn.conf",
+                      "size":  95,
+                      "md5":  "505902d4fef41ea2f8f4964baec79084",
+                      "sha256":  "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+                  },
+                  {
+                      "path":  "ivector/splice.conf",
+                      "size":  35,
+                      "md5":  "f613ff1ed9f7df0db164adf15caac381",
+                      "sha256":  "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+                  },
+                  {
+                      "path":  "README",
+                      "size":  660,
+                      "md5":  "e9be39aa30bfad71b8323b5b2fa91318",
+                      "sha256":  "b662517cacda14945e159538d6dd8faff23bd706e024c4fb338b6013c9939b9e"
+                  }
+              ]
+}
